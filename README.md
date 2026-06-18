@@ -18,6 +18,6 @@ Código limpo e de fácil manutenção para futuras atualizações da equipe.
 
 ## 🔗 Veja o Resultado
 Você pode conferir a página em funcionamento clicando no link abaixo:
-[https://portal.ifsuldeminas.edu.br/index.php/pro-reitoria-extensao/relacoes-internacionais/4382-oportunidades-cgri]
+https://portal.ifsuldeminas.edu.br/index.php/pro-reitoria-extensao/relacoes-internacionais/4382-oportunidades-cgri
 
 Desenvolvido com dedicação para a comunidade acadêmica do IFSULDEMINAS.
